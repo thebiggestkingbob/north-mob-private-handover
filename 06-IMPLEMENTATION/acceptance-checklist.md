@@ -1,0 +1,15 @@
+# Release gate
+- [ ] Repository audit completed and reviewed
+- [ ] First-party assets inspected, inventory and proposed placement approved
+- [ ] Cinematic Home, Music, Visualz, The Mob, Live, Business As Usual, Shop implemented
+- [ ] No oversized homepage NORTH MOB lettering
+- [ ] Persistent Apple-like MINI player; no expanded/full-screen player
+- [ ] Playback navigation tests and provider limitations documented
+- [ ] Secure Studio owner login, media/music/events/artist CRUD working
+- [ ] Store variants, stock, sandbox checkout, shipping and refunds verified
+- [ ] Fan Directory consent, unsubscribe, correction/export/delete verified
+- [ ] Brevo drafts, templates, test sends, scheduling and deduplication verified
+- [ ] Enquiry submission and management verified
+- [ ] SEO, performance, accessibility, mobile and reduced-motion tested
+- [ ] Monitoring, backup/restore and rollback tested
+- [ ] Explicit approval before production deployment
